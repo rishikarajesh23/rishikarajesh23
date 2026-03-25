@@ -1,6 +1,7 @@
-# Hi there 👋 
+### Hi there 👋
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=435&lines=I'm+Rishika+Rajesh" alt="Typing SVG" /></a>
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Rishika+Rajesh)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=rishikarajesh23)
 
 **B.Tech CSBS Student | AI & Data Science Enthusiast**
 
@@ -51,10 +52,10 @@ Exploring the intersection of Machine Learning, Natural Language Processing, and
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishikarajesh23&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikarajesh23&layout=compact&theme=tokyonight)
+[![Rishika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishikarajesh23&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🤝 Let's Connect!
-
-💡 **Open to collaborations on AI & Data Science projects!**
-📫 **Reach me:** [rajeshrishika23@gmail.com](mailto:rajeshrishika23@gmail.com)
+💡 Open to collaborations!  
+📬 Reach me: [rajeshrishika23@gmail.com](mailto:rajeshrishika23@gmail.com)

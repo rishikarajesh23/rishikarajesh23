@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Rishika+Rajesh)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=rishikarajesh23)
 
 **B.Tech CSBS Student | AI & Data Science Enthusiast**
 

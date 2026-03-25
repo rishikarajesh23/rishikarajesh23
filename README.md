@@ -1,8 +1,6 @@
 # Hi there 👋 
 
-# I'm Rishika Rajesh
-
-![Profile views](https://komarev.com/ghpvc/?username=rishikarajesh23&label=Profile%20views&color=0e75b6&style=flat)
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=36BCF7&width=435&lines=I'm+Rishika+Rajesh" alt="Typing SVG" /></a>
 
 **B.Tech CSBS Student | AI & Data Science Enthusiast**
 
